@@ -6,4 +6,4 @@ This is a small test website for control expenses, made with react, where I used
 
 ## Live app
 
-This project live app is [here](https://expenses-control.netlify.app/) 👈
+This project live app is [here](https://mcc-expenses-control.netlify.app/) 👈
